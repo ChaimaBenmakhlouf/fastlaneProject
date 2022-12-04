@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='TictactoeTests.xctest' tests='3' failures='0'>
+  <testsuite name='TictactoeTests.TictactoeTests' tests='3' failures='0'>
+    <testcase classname='TictactoeTests.TictactoeTests' name='test_another_test' time='0.009'/>
+    <testcase classname='TictactoeTests.TictactoeTests' name='test_change_player' time='0.007'/>
+    <testcase classname='TictactoeTests.TictactoeTests' name='test_helloWorld' time='0.005'/>
+  </testsuite>
+</testsuites>
